@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Krupesh 👋
 
-<!--
-**KRUPESHT/KRUPESHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
+I build AI agents and ship working examples that PMs can use right away.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🔨 Job Scouter & Personalised Resume — [one-line description]
+- 📚 System Design & Agentic AI
+- 🤝 [What you're looking for — collaborators, feedback, roles]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [Project 1](link) | [One line] | Python, OpenAI |
+| [Project 2](link) | [One line] | Claude API, Notion |
+| [Project 3](link) | [One line] | Zapier, GPT-4 |
+
+## Connect
+- 💼 [LinkedIn]([https://www.linkedin.com/in/krupesh-titre-029424198/])
+- 📝 [Portfolio/Blog](your-link)
+- 📧 [Email](mailto:titrekrupesh@gmail.com)
+
+---
+*PM who builds things. Currently exploring AI Agents.*
